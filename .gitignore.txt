@@ -1,0 +1,3 @@
+Project1/
+Project3/
+kafka-mongodb-docker/
